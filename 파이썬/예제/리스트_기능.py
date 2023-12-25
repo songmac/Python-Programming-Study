@@ -15,35 +15,24 @@ del b[1:2]
 print("b[1:2] 삭제: ", b)
 print("b*3 결과: ", b*3)
 print("b에 4라는 값이 있는 지 확인:", 4 in b)
-print("b에 5라는 값이 있는 지 확인:", 4 in b)
+print("b에 5라는 값이 있는 지 확인:", 5 in b)
 
 print("리스트 a와 b 더하기:", a+b)
 print("리스트 a와 b를 더한 길이:", len(a+b))
 
 
-a.append(20)
-print(a)
-a.extend([22,25])
-print(a)
 
-a.pop(0) # () 안의 인덱스에 해당하는 요소 삭제
-print(a)
-a.pop() # 맨 마지막 요소 삭제
-print(a)
+a.index(22) # 기능을 안함
+print("특정 값의 인덱스 구하기: " , a)
 
-a.insert(0, 100) # insert(인덱스, 값) # 특정 인덱스에 해당하는 요소 추가
-print(a)
-a.remove(100) # 요소 삭제
-print(a)
-a.index(-8) # 특정 요소의 인덱스 구하기
-print(a)
+a.count(2) # 기능을 안함
+print("특정 값의 개수 구하기: ", a)
 
-a.count(2) # 특정 요소의 개수 구하기
-print(3)
 
-a.reverse() # 순서 뒤집기
-print(a) 
-a.sort() # 오름차순 정렬하기
-print(a)
-a.sort(reverse=True) # 내림차순 정렬하기
-print(a)
+
+a.reverse()
+print("순서 뒤집기: ", a) 
+a.sort()
+print("오름차순 정렬하기: ", a)
+a.sort(reverse=True)
+print("내림차순 정렬하기: ", a)
