@@ -13,7 +13,7 @@ for j in range(10, 0, -1):
 
 
 
-# 다양한 자료형으로의 반복
+# 다양한 자료형으로의 반복 : range함수는 int형 반복에만 사용, 그 외에는 in 구문 사용
 # 문자형
 for i in "Orange":
     print(i, end=" ")
