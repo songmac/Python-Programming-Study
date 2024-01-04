@@ -1,19 +1,13 @@
-# Boostcamp-AI-Tech-Product-Serving
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# Study Records for being Data Scientist
 
-- [부스트캠프 AI Tech](https://boostcamp.connect.or.kr/program_ai.html) - Product Serving 자료
-
-
-<br />
 
 ## Repository 구조
-- part1(MLOps 개론, Model Serving, 머신러닝 프로젝트 라이프 사이클은 별도의 코드가 없으며, part2 ~ part4는 강의 자료에서 사용한 코드가 저장되어 있습니다
-- `assets`엔 예제로 사용할 Mask Classification Model이 저장되어 있습니다
-  - 만약 실무였다면 part 아래에 있는 폴더들에 같이 저장되는 것이 조금 더 좋지만, 교육용 Github Repo라서 중복 저장을 피하기 위해 이렇게 저장했습니다
-
-
+- 파이썬
+- 데이터 크롤링
+- 머신러닝
+- 딥러닝
+- 자연어처리
+- 추천시스템
 
 
 
