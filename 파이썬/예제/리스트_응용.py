@@ -38,3 +38,8 @@ print(b)
 
 ## 함수를 이용하여 구하기
 print(sum(a))
+
+
+
+
+# split, join 함수
