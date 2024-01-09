@@ -43,3 +43,23 @@ print(sum(a))
 
 
 # split, join 함수
+## 문자를 리스트로 만들기
+fruit = "사과,배,옥수수,당근"
+fruit_list = fruit.split(",")
+print(fruit_list)
+
+## 리스트를 문자로 만들기
+fruit_list = ['사과','배','옥수수','당근']
+fruit= "".join(fruit_list)
+print(fruit)
+
+fruit_list = ['사과','배','옥수수','당근']
+fruit= " ".join(fruit_list)
+print(fruit)
+
+fruit_list = ['사과','배','옥수수','당근']
+fruit= ",".join(fruit_list)
+print(fruit)
+
+
+
