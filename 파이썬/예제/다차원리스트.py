@@ -22,6 +22,7 @@ print(a)
 a[2].extend([1,2])
 print(a)
 
+print()
 
 
 # 2차원 리스트 값 출력
@@ -31,6 +32,7 @@ for x, y in a:
     # print(x)
     # print(y)
     print(x,y)
+
 
 ## 이중 for문 사용
 a = [[10,20], [30,40], [50,60]]
