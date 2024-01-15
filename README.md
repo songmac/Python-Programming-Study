@@ -1,7 +1,7 @@
-# Study Records for being Data Scientist
+# Theories for being Data Scientist
 
 
-## Repository 구조
+## Structure of Repositories
 - 파이썬
 - 데이터 크롤링
 - 머신러닝
