@@ -1,4 +1,4 @@
-# Theories for being Data Scientist
+# Learning-Python
 
 
 ## Structure of Repositories
