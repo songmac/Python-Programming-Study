@@ -15,3 +15,5 @@ with open("data.p", "rb") as file :
     data = pickle.load(file)
 
 print(data)
+
+
