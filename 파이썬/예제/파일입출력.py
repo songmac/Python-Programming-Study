@@ -15,13 +15,3 @@ file.close()
 with open("file.txt","r") as file:
     text = file.read()
     print(text)
-
-
-
-# pickle 모듈을 이용하여 리스트를 파일에 저장
-import pickle
-    
-text = ["First File", "Second Line"]
-
-with open("data.p", "wb") as file:
-    pickle.dump(text, file)
