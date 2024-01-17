@@ -27,3 +27,4 @@ print(name2)
 print(age2)
 print(address2)
 print(scores2)
+
