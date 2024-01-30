@@ -1,5 +1,6 @@
 # Python Programming Study
-이 레파지토리는 Python 학습을 위한 코드 예제와 주석을 포함하고 있습니다. 각 파트별로 분류되어 있으며, 기본적인 Python 문법부터 데이터 분석에 필요한 기능을 다룹니다.
+이 레파지토리는 Python 학습을 위한 코드 예제와 주석을 포함.
+각 파트별로 분류되어 있으며, 기본적인 Python 문법부터 데이터 분석에 필요한 기능을 다룸.
 
 
 ## 🍀Repository Structure
@@ -65,7 +66,7 @@
 * 예시
   * 파일 폴더명 : no_upload/
   * 파일 확장명 : *csv, *.xlsx, *.zip, *.exe, .txt
-  * 파일명 : 나만의메모.txt, 마케팅 데이터.csv
+  * 파일명 : 나만의메모.txt, 대용량 데이터.csv
 
 
 <br />
