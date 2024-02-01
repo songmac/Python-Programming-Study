@@ -1,7 +1,7 @@
 # 함수 : 특정한 기능을 반복해서 사용해야 할 때 사용
 
 # 함수의 구조
-def func(a,b): # func은 함수 이름 # a,b는 인자
+def func(a,b): # func은 함수 이름 # a,b는 인자(parameters) # 실제 전달되는 값은 argument라고 함
     # print("함수입니다.") # 코드블럭
     return a+b # 반환 값
 
