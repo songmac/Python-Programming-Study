@@ -9,7 +9,7 @@
 
 
 class Employee:
-    company = "OpenAI"  # 클래스 속성
+    company = "Samsung"  # 클래스 속성
 
     def __init__(self, name):
         self.name = name  # 인스턴스 속성
@@ -17,7 +17,7 @@ class Employee:
 # 모든 직원 객체는 동일한 회사 이름을 공유
 emp1 = Employee("Alice")
 emp2 = Employee("Bob")
-print(Employee.company)  # "OpenAI"
+print(Employee.company)  # "Samsung"
 
 
 
