@@ -12,8 +12,11 @@ try:
     print(10/0)
     x[5]
 
-except ZeroDivisionError as e:
+except ZeroDivisionError as e: # 발생한 예외를 e변수에 할당
     print("숫자를 0으로 나눌 수 없음", e)
 
 except IndexError as e:
     print("잘못된 인덱스", e)
+
+
+# 'as e' 구문 : e 변수를 통해 예외 메시지(e.args 또는 str(e))에 접근하여 사용자에게 보다 구체적인 오류 메시지를 제공
