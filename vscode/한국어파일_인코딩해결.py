@@ -36,6 +36,6 @@ def change_nfc_all_dir(dirname):
         if os.path.isdir(before_filename):    
             change_nfc_all_dir(before_filename)
             
-change_nfc_all_dir(r'C:\Users\{username}\Desktop') # <- 현재 Desktop 하위 폴더에 대해 모두 적용
+change_nfc_all_dir('C:/Users/{username}/Desktop') # <- 현재 Desktop 하위 폴더에 대해 모두 적용
 
 
