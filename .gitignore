@@ -8,6 +8,7 @@
 *.exe
 *.pkl
 *.txt
+*.pyc
 
 
 #제외할 폴더s
