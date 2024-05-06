@@ -3,7 +3,7 @@
 각 파트별로 분류되어 있으며, 기본적인 Python 문법부터 데이터 분석에 필요한 기능을 다룸.
 
  
- 
+   
   
 ## 🍀Repository Structure
 ```
