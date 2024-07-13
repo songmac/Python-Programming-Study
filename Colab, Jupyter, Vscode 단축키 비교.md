@@ -21,7 +21,7 @@
 |----------------------------|---------------------------|--------------------------------|----------------------------------|
 | 노트북 저장                 | Ctrl + S                  | Ctrl + S                       | Ctrl + S                         |
 | 찾기 및 바꾸기              | Ctrl + H                  | Ctrl + H                       | Ctrl + H                         |
-| 모든 셀 실행                | Ctrl + F9                 | Ctrl + A, Enter                | N/A                              |
+| 모든 셀 실행                | Ctrl + F9                 | Shift + Enter (모든 셀 선택 후) | N/A                              |
 
 ## 셀 선택 및 이동
 | 기능                         | Google Colaboratory 단축키   | Jupyter 기본 단축키              | Visual Studio Code 단축키       |
@@ -87,9 +87,9 @@
 | 기능                         | Google Colaboratory 단축키   | Jupyter 기본 단축키              | Visual Studio Code 단축키       |
 |----------------------------|---------------------------|--------------------------------|----------------------------------|
 | 찾기                         | Ctrl + H                  | Ctrl + F                       | Ctrl + F                         |
-| 바꾸기                       | N/A                       | N/A                            | Ctrl + H                         |
-| 다음 찾기                   | N/A                       | N/A                            | F3                               |
-| 이전 찾기                   | N/A                       | N/A                            | Shift + F3                       |
+| 바꾸기                       | N/A                       | Ctrl + H                       | Ctrl + H                         |
+| 다음 찾기                   | N/A                       | F3                             | F3                               |
+| 이전 찾기                   | N/A                       | Shift + F3                     | Shift + F3                       |
 | 모든 일치 항목 선택         | N/A                       | N/A                            | Alt + Enter                      |
 | 대소문자 구분 찾기 토글     | N/A                       | N/A                            | Alt + C                          |
 | 전체 단어 찾기 토글         | N/A                       | N/A                            | Alt + W                          |
