@@ -117,8 +117,8 @@ ___굵게 및 기울임체___
 print("Hello, world!")
 \`\`\`
 ```
-\`\`\`python
-print("Hello, world!")
+\`\`\`
+python print("Hello, world!")
 \`\`\`
 
 ## 인용문 (Blockquotes)
@@ -184,9 +184,7 @@ ___
 ```
 인라인 수식: $E=mc^2$
 블록 수식:
-$$
-E=mc^2
-$$
+$$ E=mc^2 $$
 ```
 인라인 수식: $E=mc^2$
 블록 수식:
